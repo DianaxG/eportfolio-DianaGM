@@ -20,31 +20,35 @@ Each project is strong on its own, but together they show the full range of my a
 
 **Artifact References -** 
 
+I have separated the initial version and its respective enhanced version in two different branches, and the youtube video link where I explain the initial thought process vs the enhancements can be found below: 
+
+
  ### Artifact 1: Event Tracking App
-Original Work: artifacts/Artifact 1 - /EventTrackingApp_DianaGalvez (2).zip
+ 
+Original Work: artifacts/Artifact 1 
 
-Enhanced Version: artifacts/Artifact 1 - /EventTrackingApp_DGM_Updated.zip
+Enhanced Version: artifacts/Artifact 1 - ENHANCED 
 
-Narrative Reflection: artifacts/Artifact 1 - /Project 1 - Narrative (App).docx
+Narrative Reflection: artifacts/Artifact 1 - /Project 1 - Narrative (App).docx AND in artifacts/Artifact 1 - ENHANCED / Narrative (App).docx
 
 
 ### Artifact 2: Algorithms – Pirate Agent Game
 
-Original Work: artifacts/Artifact 2 - /TreasureHuntGame.zip
+Original Work: artifacts/Artifact 2 
 
-Enhanced Version: artifacts/Artifact 2 - /CS370_PirateAgent_Enhanced.zip
+Enhanced Version: artifacts/Artifact 2 - ENHANCED
 
-Narrative Reflection: artifacts/Artifact 2 - /Project 2 - Narrative (Pirate Game).docx
+Narrative Reflection: artifacts/Artifact 2 - /Project 2 - Narrative (Pirate Game).docx AND in artifacts/Artifact 2 - ENHANCED / Narrative (Pirate Game).docx
 
 
 
 ### Artifact 3: Databases – Crime and Storm Analysis
 
-Original Work: artifacts/Artifact 3 /DGM_DAT260_Original.zip
+Original Work: artifacts/Artifact 3
 
-Enhanced Version: artifacts/Artifact 3 /DGM_DAT260_Enhanced.zip
+Enhanced Version: artifacts/Artifact 3 - ENHANCED
 
-Narrative Reflection: artifacts/Artifact 3 /Project 3 - Narrative (Big Data).docx
+Narrative Reflection: artifacts/Artifact 3 /Project 3 - Narrative (Big Data).docx AND in  artifacts/Artifact 3 - ENHANCED / Narrative (Big Data).docx
 
 
 **Code Review Video LINK (Youtube):**  https://youtu.be/dw8548yHRF0
